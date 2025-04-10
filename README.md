@@ -2,6 +2,10 @@
   Welcome to Mohamed Saeed's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+<!-- About Me -->
+<p align="center">
+  👨‍💻 A Full-Stack Developer & CS Student** with a passion for building innovative solutions using cutting-edge technologies. Always eager to learn and push the boundaries of web development. 🚀
+</p>
 
 <!-- Profile Picture
 <p align="center">
@@ -41,10 +45,6 @@
   </a>
 </p>
 
-<!-- About Me -->
-<p align="center">
-  👨‍💻 **A Full-Stack Developer & CS Student** with a passion for building innovative solutions using cutting-edge technologies. Always eager to learn and push the boundaries of web development. 🚀
-</p>
 
 <!-- Tech Stack -->
 ### 🔧 **Tech Stack**:
