@@ -38,10 +38,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MohaMMed-S3eeD?tab=followers">
-    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MohaMMed-S3eeD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=MohaMMed-S3eeD&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=MohaMMed-S3eeD&style=for-the-badge" alt="Profile Views" />
+    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MohaMMed-S3eeD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 </p>
 
