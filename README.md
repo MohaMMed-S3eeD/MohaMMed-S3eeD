@@ -4,7 +4,7 @@
 </h3>
 <!-- About Me -->
 <p align="center">
-  👨‍💻 A Full-Stack Developer & CS Student** with a passion for building innovative solutions using cutting-edge technologies. Always eager to learn and push the boundaries of web development. 🚀
+  👨‍💻 A Full-Stack Developer & CS Student with a passion for building innovative solutions using cutting-edge technologies. Always eager to learn and push the boundaries of web development. 🚀
 </p>
 
 <!-- Profile Picture
