@@ -83,6 +83,12 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohaMMed-S3eeD&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
     </a>
   </p>
+  <p align="center" >
+&nbsp;
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MohaMMed-S3eeD&theme=dark" alt="GitHub Streak" />
+
+</p>
 </details>
 
 
