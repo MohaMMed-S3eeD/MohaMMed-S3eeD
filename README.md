@@ -95,7 +95,7 @@
 
 <!-- Projects -->
 <details open>
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 My Top Open Source  Projects</h2></summary>
   <p align="center">
     <a href="https://github.com/MohaMMed-S3eeD/x-clone-ui">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohaMMed-S3eeD&repo=x-clone-ui&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 1" />
