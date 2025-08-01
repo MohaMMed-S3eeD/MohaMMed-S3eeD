@@ -95,9 +95,8 @@
   </p>
 </details>
 
+<!--
 
-
-<!-- Projects -->
 <details open>
   <summary><h2>📘 My Top Open Source  Projects</h2></summary>
   <p align="center">
@@ -128,4 +127,4 @@
   </p>
 </details>
 
-
+-->
